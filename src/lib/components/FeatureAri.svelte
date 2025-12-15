@@ -5,14 +5,14 @@
       <div>
         <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-gray-200 text-xs font-bold uppercase tracking-wide mb-6">
           <span class="w-4 h-4 rounded-full bg-green-100 flex items-center justify-center text-green-600">A</span>
-          Ari
+          AI Agents
         </div>
-        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Act instantly</h2>
+        <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 tracking-tight">Automate everything</h2>
         <p class="text-lg text-gray-500 mb-8 leading-relaxed">
-          Ari handles the routine, the repetitive, and the ready-to-automate. Ari frees your human team for the moments that matter: complex, revenue-impacting interactions.
+          AI agents handle payroll runs, compliance filings, employee queries, and contract updates. They work 24/7 in Slack, keeping you compliant and your team focused on building.
         </p>
         <a href="#" class="inline-flex items-center text-sm font-bold text-green-500 uppercase tracking-wide hover:text-green-600">
-          Discover Ari <span class="ml-2">→</span>
+          See how it works <span class="ml-2">→</span>
         </a>
       </div>
 
@@ -27,7 +27,7 @@
                         <span class="font-bold text-xs">Jesse</span>
                         <span class="text-[10px] text-gray-400">12:28 PM</span>
                     </div>
-                    <p class="text-sm text-gray-700">Hey team, this looks a lot like a bug we had a couple weeks ago.</p>
+                    <p class="text-sm text-gray-700">Hey, can someone help me understand my payslip? The pension contribution looks different this month.</p>
                 </div>
             </div>
          </div>

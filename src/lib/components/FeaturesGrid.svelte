@@ -12,9 +12,9 @@
                 {/each}
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Scale every channel</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Compliant payroll, automated</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Connect and scale Slack, Microsoft Teams, Discord, portal, email, chat, forms and more with the fastest support inbox ever built.
+          HMRC-compliant payroll that runs itself. Auto-enrolment pensions, tax calculations, RTI submissions—all handled by AI agents. You just approve.
         </p>
       </div>
 
@@ -36,9 +36,9 @@
                 Negative shift
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Understand every customer</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Proactive compliance support</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Drive product and revenue. Automatically surface product themes, customer trends, and churn signals.
+          Never miss a deadline. AI monitors regulations, reminds you of obligations, and handles filings automatically. Stay compliant without thinking about it.
         </p>
       </div>
 
@@ -54,9 +54,9 @@
                  <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Draft reply</div>
              </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Empower every team member</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Zero admin overhead</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Supercharge your team with AI built for B2B. Triage queries, engage customers, and investigate technical queries with accuracy.
+          AI agents handle employee queries, onboarding, contract changes, and compliance tasks. Your team focuses on building, not paperwork.
         </p>
       </div>
 
